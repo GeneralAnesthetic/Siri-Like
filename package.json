@@ -1,0 +1,19 @@
+{
+  "name": "siri-like",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeneralAnesthetic/Siri-Like.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeneralAnesthetic/Siri-Like/issues"
+  },
+  "homepage": "https://github.com/GeneralAnesthetic/Siri-Like#readme"
+}
